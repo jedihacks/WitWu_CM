@@ -1,0 +1,29 @@
+{
+    "name": "WitWu_CM",
+    "settings": {},
+    "xdsVersion": "2.2.2",
+    "xdsBuild": 991,
+    "schemaVersion": 1,
+    "upgradeVersion": 210000000503,
+    "framework": "touch22",
+    "topInstanceFileMap": {
+        "47c69bef-d1e4-4452-974a-0df46a4b19b4": {
+            "paths": [
+                "metadata/resource/Library"
+            ],
+            "className": "Library"
+        }
+    },
+    "viewOrderMap": {
+        "view": [],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "47c69bef-d1e4-4452-974a-0df46a4b19b4"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
